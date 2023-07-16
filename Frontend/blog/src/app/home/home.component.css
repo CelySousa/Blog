@@ -1,0 +1,9 @@
+.parallax {
+    background-image: url('https://cdn.pixabay.com/photo/2020/04/29/06/22/dominican-republic-5107400_1280.jpg');
+    min-height:800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+  }

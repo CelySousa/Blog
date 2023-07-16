@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Mark",
+      "mensagem": "Welcome!"
+    },
+    {
+      "id": 2,
+      "nome": "Samantha",
+      "mensagem": "This blog is amazing"
+    },
+    {
+      "id": 3,
+      "nome": "Jeannie",
+      "mensagem": "This is my first post"
+    },
+    [
+      {
+        "id": 4,
+        "nome": "Jonhatan",
+        "mensagem": "This is my new post"
+      },
+      {
+        "id": 5,
+        "nome": "Joe",
+        "mensagem": "Excellent!"
+      }
+    ]
+  ]
+}
